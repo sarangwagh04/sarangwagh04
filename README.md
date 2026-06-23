@@ -160,7 +160,19 @@ fun_fact: "I love turning ideas into production-ready products 🚀"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarangwagh04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=sarangwagh04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarangwagh04/sarangwagh04/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarangwagh04/sarangwagh04/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sarangwagh04/sarangwagh04/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
