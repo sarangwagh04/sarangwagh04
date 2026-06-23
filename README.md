@@ -165,14 +165,6 @@ fun_fact: "I love turning ideas into production-ready products 🚀"
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sarangwagh04/sarangwagh04/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -205,12 +197,7 @@ fun_fact: "I love turning ideas into production-ready products 🚀"
 
 ---
 
-<div align="center">
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=sarangwagh04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
