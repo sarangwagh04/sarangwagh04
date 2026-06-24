@@ -11,7 +11,7 @@
 <!-- Profile Views & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=sarangwagh04&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="mailto:sarang54321@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Available-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/></a>
+<a href="mailto:sarangwagh54321@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Available-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"/></a>
 
 </div>
 
